@@ -7,7 +7,7 @@ library(devtools)
 install_github("li-xinran/KPPT")
 
 ### library the package and other required packages
-library(PPT)
+library(KPPT)
 
 library(mvtnorm); library(psych); library(quadprog); library(Matrix); library(lmtest)
 
